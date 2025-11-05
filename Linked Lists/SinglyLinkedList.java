@@ -1,3 +1,16 @@
+/**
+ * Singly Linked List Implementation in Java
+ * 
+ * Operations Supported:
+ * 1. Insertion at the beginning
+ * 2. Insertion at the end
+ * 3. Deletion from the beginning 
+ * 4. Deletion from the end
+ * 5. Displaying the list
+ * 6. Searching for an element
+ * 7. Reversing the list
+ * 
+*/
 
 public class SinglyLinkedList{
     private Node head;
