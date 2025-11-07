@@ -11,7 +11,7 @@
  * 6. Deletion from any position (delete)
  * 5. Displaying the list (display)
  * 6. Searching for an element (search)
- * 7. Reversing the list
+ * 7. Reversing the list (reverse)
  * 8. Viewing list size (getSize)
  * 
 */

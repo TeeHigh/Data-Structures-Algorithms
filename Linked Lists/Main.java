@@ -1,20 +1,20 @@
 
 public class Main {
   public static void main(String[] args) {
-    // SinglyLinkedList list1 = new SinglyLinkedList();
+    SinglyLinkedList list1 = new SinglyLinkedList();
 
-    // list1.insertAtBeginning(0);
-    // list1.insertAtBeginning(2);
-    // list1.insertAtBeginning(4);
-    // list1.insertAtBeginning(5);
-    // list1.insertAtBeginning(9);
-    // list1.insertAtEnd(2025);
-    // list1.display();
-    // list1.visualize();
-    // list1.deleteFromEnd();
-    // list1.display();
-    // list1.visualize();
-
+    list1.insertAtBeginning(0);
+    list1.insertAtBeginning(2);
+    list1.insertAtBeginning(4);
+    list1.insertAtBeginning(5);
+    list1.insertAtBeginning(9);
+    list1.insertAtEnd(2025);
+    list1.display();
+    list1.visualize();
+    list1.deleteFromEnd();
+    list1.display();
+    list1.visualize();
+    
     DoublyLinkedList list2 = new DoublyLinkedList();
     list2.append(0);
     list2.append(1);
