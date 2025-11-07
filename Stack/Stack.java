@@ -1,3 +1,15 @@
+/**
+ * Stack implementation in Java built on the Array data structure
+ * 
+ * Operations Supported:
+ * 1. Push (add an element to the top)
+ * 2. Pop (remove the top element)
+ * 3. Peek (view the top element without removing it)
+ * 4. Size (get the current size of the stack)
+ * 5. Display (view all elements in the stack)
+ * 
+*/
+
 package Stack;
 
 import java.util.Arrays;
